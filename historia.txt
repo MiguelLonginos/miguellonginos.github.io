@@ -2,8 +2,6 @@ esta es la historia de miguel aprendiendo git
 
 miguel tiene 31  años ya casi cumple los 32 y esta mejorando sus conocimientos de desarrollo
 
-miguel pago la suscripcion expert de platzi 
+miguel pago la suscripcion expert de platzi
 
-cuando se reinicio la educacion en la plataforma
-
-y antes era un desarrollador Sr y ahora es un proximo arquitecto de software
+mañana veremos que mas aprendemos
