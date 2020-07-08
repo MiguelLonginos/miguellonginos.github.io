@@ -5,3 +5,5 @@ miguel tiene 31  años ya casi cumple los 32 y esta mejorando sus conocimientos 
 miguel pago la suscripcion expert de platzi 
 
 cuando se reinicio la educacion en la plataforma
+
+y antes era un desarrollador Sr y ahora es un proximo arquitecto de software
