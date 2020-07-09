@@ -1,6 +1,16 @@
 body{
+    border-style: solid;
     text-align: center;
     font-size: 25px;
     font-family: Arial, Helvetica, sans-serif; 
     color: green;
+}
+.container{
+    border-style: solid;
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Courier New', Courier, monospace; 
+    color: blue; 
+    margin: 12px;
+
 }
