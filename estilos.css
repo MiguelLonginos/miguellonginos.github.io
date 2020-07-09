@@ -3,14 +3,16 @@ body{
     text-align: center;
     font-size: 25px;
     font-family: Arial, Helvetica, sans-serif; 
-    color: green;
+    color: gray;
+    background-color: cornflowerblue;
 }
 .container{
     border-style: solid;
     text-align: center;
     font-size: 16px;
-    font-family: 'Courier New', Courier, monospace; 
+    font-family: 'Times New Roman', Times, serif; 
     color: blue; 
     margin: 12px;
+    background-color: aqua;
 
 }
