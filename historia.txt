@@ -7,3 +7,5 @@ miguel pago la suscripcion expert de platzi
 mañana veremos que mas aprendemos 
 
 aqui estoy probando mi repositorio en otra maquina
+
+cambie mi configuracion para checar otro cambio desde diferente pc
