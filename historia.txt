@@ -1,8 +1,8 @@
-esta es la historia de miguel aprendiendo git 
+Esta es la historia de miguel aprendiendo git 
 
-miguel tiene 31  años ya casi cumple los 32 y esta mejorando sus conocimientos de desarrollo
+Miguel tiene 31  años ya casi cumple los 32 y esta mejorando sus conocimientos de desarrollo
 
-miguel pago la suscripcion expert de platzi
+Miguel pago la suscripcion expert de platzi
 
 mañana veremos que mas aprendemos 
 
@@ -13,3 +13,5 @@ cambie mi configuracion para checar otro cambio desde diferente pc
 estamos agregando nuevo contenido haciendo una recopilacion de comandos en git 
 
 Aquí vamos a poner la información para hacer un pull request en GitHub.
+
+Aquí esta mi contribución arreglando ortografía.
