@@ -5,3 +5,5 @@ miguel tiene 31  años ya casi cumple los 32 y esta mejorando sus conocimientos 
 miguel pago la suscripcion expert de platzi
 
 mañana veremos que mas aprendemos
+
+estamos agregando nuevo contenido haciendo una recopilacion de comandos en git 
