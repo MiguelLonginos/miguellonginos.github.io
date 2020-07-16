@@ -12,3 +12,4 @@ cambie mi configuracion para checar otro cambio desde diferente pc
 
 estamos agregando nuevo contenido haciendo una recopilacion de comandos en git 
 
+Aquí vamos a poner la informacion para hacer un pull request en github
